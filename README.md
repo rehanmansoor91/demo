@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-Author - Rehan Mansoor (new)
+Author - Rehan Mansoor (old)
